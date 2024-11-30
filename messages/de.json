@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "Hallo Welt. [de]"
+  },
+  "Nav": {
+    "en": "Englische Seite",
+    "de": "Deutsche Seite",
+    "ja": "Japanische Seite"
+  },
+  "Metadata": {
+    "title": "Deutschsprachige Seite"
+  }
+}
