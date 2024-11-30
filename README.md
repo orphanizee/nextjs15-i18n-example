@@ -1,0 +1,1 @@
+# nextjs15-i18n-example
